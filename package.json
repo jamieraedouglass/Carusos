@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-"scripts": {
-  "dev": "vite",
-  "build": "vite build",
-  "preview": "vite preview"
-},
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/jamieraedouglass/Carusos.git"
@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/jamieraedouglass/Carusos/issues"
   },
-  "homepage": "https://github.com/jamieraedouglass/Carusos#readme"
+  "homepage": "https://github.com/jamieraedouglass/Carusos#readme",
+  "devDependencies": {
+    "vite": "^8.0.10"
+  }
 }
