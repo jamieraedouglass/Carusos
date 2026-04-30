@@ -1,3 +1,22 @@
- .env
+# Dependency directories
+node_modules/
+npm-debug.log*
 
- node_modules/
+# Build directories
+dist/
+build/
+out/
+.next/
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+
+# Vercel deployment cache
+.vercel/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+your-file-or-folder-name/
